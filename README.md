@@ -4,7 +4,7 @@ This is a sample config for a dev system based on a virtual machine running Ubun
 
 ## Install
 
-Note: *If you're starting from a clean machine a good way to start is to install all the required stuff via my dotfiles: [https://github.com/victormier/dotfiles](https://github.com/victormier/dotfiles) with (this install some other stuff):*
+Note: *If you're starting from a clean machine a good way to start is to install all the required stuff via my dotfiles: [https://github.com/victormier/dotfiles](https://github.com/victormier/dotfiles) with (this installs some other stuff):*
 
 ```
 git clone https://github.com/victormier/dotfiles.git ~/.dotfiles
@@ -14,7 +14,7 @@ brew/install.sh
 brew-cask/install.sh
 ```
 
-Thinks you'll need to install:
+Things you'll need to install:
 
 - vagrant
 - virtualbox
